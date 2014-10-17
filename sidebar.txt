@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tey:home|Door43 (tey)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tey|d43-tey repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tey/archive/master.zip|d43-tey.zip]]
+
+**Recent Changes**
+{{changes>ns = tey}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tey|Ethnologue data]]
+
